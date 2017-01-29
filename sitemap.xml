@@ -134,15 +134,6 @@
     
     
     <url>
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>/tags/academic/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -253,6 +244,15 @@
     
     <url>
       <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

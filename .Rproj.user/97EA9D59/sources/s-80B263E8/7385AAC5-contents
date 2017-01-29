@@ -1,7 +1,7 @@
 publishdir = "../"
-baseurl = "https://example.com"
-title = "Academic"
-copyright = "&copy; 2017 Uisoo Chae"
+baseurl = "http://suechae.github.io"
+title = "Uisoo Chae, M.D."
+copyright = "&copy; 2017 Uisoo Chae, M.D."
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,16 +20,16 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
-  organization_url = ""
+  name = "Uisoo Chae, M.D."
+  role = "Resident of Dept of Obstetrics and Gynecology"
+  organization = "Asan Medical Center, Seoul"
+  organization_url = "http://amc.seoul.kr"
   avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "suechae@amc.seoul.kr"
+  address = "New Building 8th, Asan Medical Center, Seoul, Korea 05505"
+  office_hours = "email for appointment"
+  phone = "82-2-3010-0204"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
