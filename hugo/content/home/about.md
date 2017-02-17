@@ -37,6 +37,9 @@ weight = 1
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Uisoo Chae, M.D. is a resident in training in Dept of Obstetrics and Gynecology, Asan Medical Center, Seoul.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+She is pursuing a physician-scientist career to better diagnose and treat patients suffering from obstetric or gynecologic diseases by implementing innovative and safe therapeutics.
+
+As well as clinical trainings, she had several research experiences at Lab of Pathology (National Cancer Instatute, NIH), Asan Medical Center, or Pusan National University and published three papers to the international SCI journals.
+
